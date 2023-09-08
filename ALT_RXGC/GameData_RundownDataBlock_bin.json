@@ -293,7 +293,7 @@
           },
           "Descriptive": {
             "Prefix": "A-Tier",
-            "PublicName": "RXGC: Crucible",
+            "PublicName": "RXGC - Crucible",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": true,
             "UseCustomMatchmakingTier": false,
@@ -739,7 +739,7 @@
           },
           "Descriptive": {
             "Prefix": "C-Tier",
-            "PublicName": "RXGC: Crucible",
+            "PublicName": "RXGC - Crucible",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": true,
             "UseCustomMatchmakingTier": false,
@@ -1185,7 +1185,7 @@
           },
           "Descriptive": {
             "Prefix": "E-Tier",
-            "PublicName": "RXGC: Crucible",
+            "PublicName": "RXGC - Crucible",
             "IsExtraExpedition": false,
             "SkipExpNumberInName": true,
             "UseCustomMatchmakingTier": false,

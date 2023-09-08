@@ -52269,12 +52269,12 @@
     {
       "Type": 6,
       "Header": "Retrieve Essential Items",
-      "MainObjective": "Find [ALL_ITEMS] and bring it to the extraction scan in [EXTRACTION_ZONE]",
+      "MainObjective": "Find the <color=orange>DATA SPHERE</color> in [ZONE_4] and bring it to the extraction scan in [EXTRACTION_ZONE]",
       "WardenObjectiveSpecialUpdateType": 0,
       "GenericItemFromStart": 0,
       "DoNotMarkPickupItemsAsWardenObjectives": false,
-      "FindLocationInfo": "Gather information about the location of [ALL_ITEMS]",
-      "FindLocationInfoHelp": "Access more data in the terminal maintenance system",
+      "FindLocationInfo": "",
+      "FindLocationInfoHelp": "",
       "GoToZone": 0,
       "GoToZoneHelp": 0,
       "InZoneFindItem": 0,
@@ -52287,7 +52287,7 @@
       "GoToWinConditionHelp_CustomGeo": 0,
       "GoToWinCondition_ToMainLayer": "Go back to the main objective and complete the expedition.",
       "GoToWinConditionHelp_ToMainLayer": 0,
-      "ShowHelpDelay": 180.0,
+      "ShowHelpDelay": 1200.0,
       "WavesOnElevatorLand": [],
       "EventsOnElevatorLand": [
         {
