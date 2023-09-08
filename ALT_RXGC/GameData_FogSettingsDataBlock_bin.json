@@ -4753,6 +4753,31 @@
       "name": "Fog_light_with_soft_layer_R1A1",
       "internalEnabled": true,
       "persistentID": 139
+    },
+    {
+      "Enabled": true,
+      "FogColor": {
+        "r": 0.7924528,
+        "g": 0.72965467,
+        "b": 0.6018156,
+        "a": 0
+      },
+      "FogDensity": 0.0003,
+      "FogAmbience": 0.001,
+      "DensityNoiseDirection": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5
+      },
+      "DensityNoiseSpeed": 0.0372,
+      "DensityNoiseScale": 0.08,
+      "DensityHeightAltitude": -3.9,
+      "DensityHeightRange": 0.15,
+      "DensityHeightMaxBoost": 0.02,
+      "Infection": 0,
+      "name": "RXGC_Fog",
+      "internalEnabled": true,
+      "persistentID": 200
     }
   ],
   "LastPersistentID": 176
