@@ -52828,7 +52828,7 @@
       "StopAllWavesBeforeGotoWin": false,
       "WavesOnGotoWin": [
         {
-          "WaveSettings": 109,
+          "WaveSettings": 117,
           "WavePopulation": 23,
           "AreaDistance": 2,
           "SpawnDelay": 2.0,
