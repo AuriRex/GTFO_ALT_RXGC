@@ -1,9 +1,9 @@
 {
     "name": "ALT-RXGC",
-    "version_number": "0.0.3",
+    "version_number": "0.0.4",
     "author": "AuriRex",
     "website_url": "https://github.com/AuriRex/GTFO_ALT_RXGC",
-    "description": "A recreation of the gamescom exclusive level RXGC 'Crucible'.",
+    "description": "A recreation of the 2023 Gamescom exclusive level RXGC 'Crucible'.",
     "dependencies": [
         "BepInEx-BepInExPack_GTFO-1.5.0",
         "dakkhuza-MTFO-4.5.1"
