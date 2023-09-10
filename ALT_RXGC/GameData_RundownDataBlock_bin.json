@@ -299,10 +299,10 @@
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 1,
-            "ExpeditionDepth": 798,
+            "ExpeditionDepth": 247,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Retrieval of important data required. Expedition duration highly limited. Security systems on high alert.",
-            "RoleplayedWardenIntel": ">… We gotta go. <color=red><size=200%>Now.</color></size>\n>… Hey, resource box over th-\n>… <color=red><size=200%>No, we have no time!</size></color>"
+            "RoleplayedWardenIntel": ">… We gotta go. <color=red><size=200%>Now.</color></size>\n>… Hey, resource box over th-\n<color=red><size=200%>>… No, we have no time!</size></color>"
           },
           "Seeds": {
             "BuildSeed": 232,
@@ -726,7 +726,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 3,
+          "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier": 1,
             "Exp": 0
@@ -745,10 +745,10 @@
             "UseCustomMatchmakingTier": false,
             "CustomMatchmakingTier": 1,
             "ProgressionVisualStyle": 1,
-            "ExpeditionDepth": 798,
+            "ExpeditionDepth": 573,
             "EstimatedDuration": 930,
             "ExpeditionDescription": "Retrieval of important data required. Expedition duration highly limited. Security systems on high alert.",
-            "RoleplayedWardenIntel": ">… We gotta go. <color=red><size=200%>Now.</color></size>\n>… Hey, resource box over th-\n>… <color=red><size=200%>No, we have no time!</size></color>"
+            "RoleplayedWardenIntel": ">… We gotta go. <color=red><size=200%>Now.</color></size>\n>… Hey, resource box over th-\n<color=red><size=200%>>… No, we have no time!</size></color>"
           },
           "Seeds": {
             "BuildSeed": 232,
@@ -778,13 +778,13 @@
             "Groups": []
           },
           "UseGearPicker": false,
-          "LevelLayoutData": 42777,
+          "LevelLayoutData": 42778,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
             "BulkheadDoorControllerPlacements": [],
             "BulkheadKeyPlacements": [],
             "ObjectiveData": {
-              "DataBlockId": 300,
+              "DataBlockId": 301,
               "WinCondition": 1,
               "ZonePlacementDatas": [
                 [
