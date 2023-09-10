@@ -280,7 +280,7 @@
           "PutIconAboveTier": false,
           "DisablePlayerVoicelines": false,
           "ExcludeFromProgression": false,
-          "Accessibility": 3,
+          "Accessibility": 0,
           "UnlockedByExpedition": {
             "Tier": 1,
             "Exp": 0
@@ -332,13 +332,13 @@
             "Groups": []
           },
           "UseGearPicker": false,
-          "LevelLayoutData": 42777,
+          "LevelLayoutData": 42779,
           "MainLayerData": {
             "ZonesWithBulkheadEntrance": [],
             "BulkheadDoorControllerPlacements": [],
             "BulkheadKeyPlacements": [],
             "ObjectiveData": {
-              "DataBlockId": 300,
+              "DataBlockId": 302,
               "WinCondition": 1,
               "ZonePlacementDatas": [
                 [
