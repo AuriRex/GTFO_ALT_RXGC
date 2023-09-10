@@ -52862,8 +52862,8 @@
           "FogSetting": 0,
           "FogTransitionDuration": 0.0,
           "EnemyWaveData": {
-            "WaveSettings": 2,
-            "WavePopulation": 56,
+            "WaveSettings": 54,
+            "WavePopulation": 39,
             "AreaDistance": 2,
             "SpawnDelay": 0,
             "TriggerAlarm": false,
