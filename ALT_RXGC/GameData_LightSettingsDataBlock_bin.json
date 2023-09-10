@@ -9975,6 +9975,154 @@
       "name": "Mainframe_R7D2",
       "internalEnabled": true,
       "persistentID": 85
+    },
+
+    {
+      "LightCategorySettings": [
+        {
+          "On": true,
+          "Category": 0,
+          "Chance": 1.0,
+          "ChanceBroken": 0.0,
+          "Color": {
+            "a": 1.0,
+            "r": 0.2901961,
+            "g": 0.419607848,
+            "b": 0.607843161
+          },
+          "IntensityMul": 1.0,
+          "Weight": 1.0
+        },
+        {
+          "On": true,
+          "Category": 0,
+          "Chance": 0.7,
+          "ChanceBroken": 0.05,
+          "Color": {
+            "a": 1.0,
+            "r": 0.9764706,
+            "g": 0.494117647,
+            "b": 0.08235294
+          },
+          "IntensityMul": 1.5,
+          "Weight": 1.0
+        },
+        {
+          "On": true,
+          "Category": 0,
+          "Chance": 0.7,
+          "ChanceBroken": 0.05,
+          "Color": {
+            "a": 1.0,
+            "r": 0.9764706,
+            "g": 0.494117647,
+            "b": 0.08235294
+          },
+          "IntensityMul": 1.5,
+          "Weight": 1.0
+        },
+        {
+          "On": true,
+          "Category": 0,
+          "Chance": 0.7,
+          "ChanceBroken": 0.05,
+          "Color": {
+            "a": 0.0,
+            "r": 1.0,
+            "g": 0.5647059,
+            "b": 0.192156866
+          },
+          "IntensityMul": 1.5,
+          "Weight": 1.0
+        },
+        {
+          "On": true,
+          "Category": 4,
+          "Chance": 1.0,
+          "ChanceBroken": 0.05,
+          "Color": {
+            "a": 1.0,
+            "r": 0.0784313753,
+            "g": 0.443137258,
+            "b": 0.6156863
+          },
+          "IntensityMul": 1.0,
+          "Weight": 1.0
+        },
+        {
+          "On": true,
+          "Category": 0,
+          "Chance": 0.75,
+          "ChanceBroken": 0.0,
+          "Color": {
+            "a": 1.0,
+            "r": 0.184313729,
+            "g": 0.490196079,
+            "b": 0.298039228
+          },
+          "IntensityMul": 2.0,
+          "Weight": 0.5
+        },
+        {
+          "On": true,
+          "Category": 0,
+          "Chance": 0.4,
+          "ChanceBroken": 0.0,
+          "Color": {
+            "a": 1.0,
+            "r": 0.05490196,
+            "g": 0.635294139,
+            "b": 0.490196079
+          },
+          "IntensityMul": 1.2,
+          "Weight": 0.5
+        },
+        {
+          "On": true,
+          "Category": 2,
+          "Chance": 0.4,
+          "ChanceBroken": 0.0,
+          "Color": {
+            "a": 0.0,
+            "r": 1.0,
+            "g": 0.266666681,
+            "b": 0.266666681
+          },
+          "IntensityMul": 1.0,
+          "Weight": 1.0
+        },
+        {
+          "On": true,
+          "Category": 6,
+          "Chance": 1.0,
+          "ChanceBroken": 0.05,
+          "Color": {
+            "a": 1.0,
+            "r": 0.9764706,
+            "g": 0.494117647,
+            "b": 0.08235294
+          },
+          "IntensityMul": 1.5,
+          "Weight": 1.0
+        },
+        {
+          "On": true,
+          "Category": 1,
+          "Chance": 0.6,
+          "ChanceBroken": 0.0,
+          "Color": {
+            "a": 1.0,
+            "r": 0.7924528,
+            "g": 0.7924528,
+            "b": 0.7924528
+          },
+          "IntensityMul": 1.5,
+          "Weight": 1.0
+        }
+      ],
+      "name": "OrangeToBlue_RXGC",
+      "internalEnabled": true,
+      "persistentID": 125
     }
   ],
   "LastPersistentID": 103
