@@ -406,13 +406,7 @@
               "ArtifactZoneDistributions": []
             }
           },
-          "DimensionDatas": [
-            {
-              "DimensionIndex": 22,
-              "DimensionData": 14,
-              "Enabled": true
-            }
-          ],
+          "DimensionDatas": [],
           "SoundEventOnWarpToReality": 0,
           "SpecialOverrideData": {
             "WeakResourceContainerWithPackChanceForLocked": -1.0,

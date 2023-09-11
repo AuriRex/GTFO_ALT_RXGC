@@ -2217,7 +2217,7 @@
           "EnemySpawningInZone": [
             {
               "GroupType": 0,
-              "Difficulty": 1,
+              "Difficulty": 0,
               "Distribution": 2,
               "DistributionValue": 0.6
             }
@@ -2367,7 +2367,7 @@
           "EnemySpawningInZone": [
             {
               "GroupType": 0,
-              "Difficulty": 1,
+              "Difficulty": 0,
               "Distribution": 2,
               "DistributionValue": 0.8
             }
@@ -2516,7 +2516,7 @@
           "EnemySpawningInZone": [
             {
               "GroupType": 0,
-              "Difficulty": 1,
+              "Difficulty": 0,
               "Distribution": 2,
               "DistributionValue": 0.6
             },
@@ -2524,7 +2524,7 @@
               "GroupType": 1,
               "Difficulty": 1,
               "Distribution": 2,
-              "DistributionValue": 0.3
+              "DistributionValue": 0.4
             }
           ],
           "EnemyRespawning": false,
@@ -2672,7 +2672,7 @@
           "EnemySpawningInZone": [
             {
               "GroupType": 0,
-              "Difficulty": 1,
+              "Difficulty": 0,
               "Distribution": 2,
               "DistributionValue": 0.8
             },
@@ -2680,7 +2680,7 @@
               "GroupType": 1,
               "Difficulty": 1,
               "Distribution": 2,
-              "DistributionValue": 0.6
+              "DistributionValue": 0.8
             }
           ],
           "EnemyRespawning": false,
