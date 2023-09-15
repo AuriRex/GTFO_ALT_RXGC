@@ -50272,6 +50272,11 @@
           "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_64x64_Lab_dead_end_room_01.prefab",
           "SubComplex": 5,
           "Shard": 18
+        },
+        {
+          "Prefab": "Assets/AssetPrefabs/Complex/Tech/Geomorphs/geo_64x64_Lab_dead_end_room_01_Gamescom.prefab",
+          "SubComplex": 5,
+          "Shard": 18
         }
       ],
       "CustomGeomorphs_Challenge_1x1": [
