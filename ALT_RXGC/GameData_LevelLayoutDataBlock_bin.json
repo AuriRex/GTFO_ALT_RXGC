@@ -2524,7 +2524,7 @@
               "GroupType": 1,
               "Difficulty": 1,
               "Distribution": 2,
-              "DistributionValue": 0.4
+              "DistributionValue": 0.3
             }
           ],
           "EnemyRespawning": false,
@@ -2680,7 +2680,7 @@
               "GroupType": 1,
               "Difficulty": 1,
               "Distribution": 2,
-              "DistributionValue": 0.8
+              "DistributionValue": 0.6
             }
           ],
           "EnemyRespawning": false,
