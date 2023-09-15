@@ -6679,7 +6679,7 @@
     {
       "PublicAlarmName": "Class M IV Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 12,
+      "SurvivalWaveSettings": 271,
       "SurvivalWavePopulation": 23,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
@@ -6710,7 +6710,7 @@
     {
       "PublicAlarmName": "Class IV Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 1,
+      "SurvivalWaveSettings": 271,
       "SurvivalWavePopulation": 1,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
@@ -6772,7 +6772,7 @@
     {
       "PublicAlarmName": "Class M IV Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 12,
+      "SurvivalWaveSettings": 269,
       "SurvivalWavePopulation": 1,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
@@ -6828,7 +6828,7 @@
     {
       "PublicAlarmName": "Class III Diminished Alarm",
       "TriggerAlarmOnActivate": true,
-      "SurvivalWaveSettings": 57,
+      "SurvivalWaveSettings": 270,
       "SurvivalWavePopulation": 1,
       "SurvivalWaveAreaDistance": 2,
       "DisableSurvivalWaveOnComplete": true,
