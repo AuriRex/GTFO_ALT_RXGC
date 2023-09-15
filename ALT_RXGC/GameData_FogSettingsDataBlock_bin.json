@@ -4778,6 +4778,31 @@
       "name": "RXGC_Fog",
       "internalEnabled": true,
       "persistentID": 200
+    },
+    {
+      "Enabled": true,
+      "FogColor": {
+        "a": 0.0,
+        "r": 0.847058833,
+        "g": 1.0,
+        "b": 0.956862748
+      },
+      "FogDensity": 0.0005,
+      "FogAmbience": 0.001,
+      "DensityNoiseDirection": {
+        "x": -1.0,
+        "y": -1.0,
+        "z": 1.0
+      },
+      "DensityNoiseSpeed": 0.1,
+      "DensityNoiseScale": 0.3,
+      "DensityHeightAltitude": -4.8,
+      "DensityHeightRange": 0.75,
+      "DensityHeightMaxBoost": 0.05,
+      "Infection": 0.0,
+      "name": "Fog_very_light_White_GamescomHard",
+      "internalEnabled": true,
+      "persistentID": 182
     }
   ],
   "LastPersistentID": 176
